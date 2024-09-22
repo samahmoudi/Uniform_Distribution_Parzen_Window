@@ -1,4 +1,3 @@
-```markdown
 # Project Title: Uniform Distribution & Parzen Window Estimation
 
 ## Overview
